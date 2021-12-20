@@ -1,16 +1,10 @@
-# CS6314-WPL-eCommerceProject
+# Store Mart
 
 #### This is an e-commerce application for a Furniture Store developed using MongoDB, Express.js, Angular.js and Node.js (MEAN Stack).
 
-### Title: Online Furniture Store
-
-### Website Name: The Furniture Mart
-
-### Project in action
-
 ### Description:
 
-The project is “The Furniture Mart” web application which provides a platform for buying and selling of furniture like Bookshelf, Mattress and Bed etc.
+The project is “Store Mart” web application which provides a platform for buying and selling of furniture like Bookshelf, Mattress and Bed etc.
 Assumptions:
 Admin account is pre-created.
 
